@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am an undergraduate at the University of Electronic Science and Technology of China. I have worked on computer vision, exploring problems such as cross-domain material retrieval with Dr. [Jingwei Huang](https://cs.stanford.edu/~jingweih/) ([Tencent Hunyuan 3D](https://hunyuan-3d.com/)), low-light image enhancement, and generative modeling. More recently, I have expanded my interests to AI for Science, especially drug discovery, where I focus on protein–ligand binding prediction at the [THU-ATOM Lab](https://atomlab.yanyanlan.com/), [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), advised by Prof. [Yanyan Lan](https://yanyanlan.com/).
+Hi! I am an undergraduate at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). I have worked on computer vision, exploring problems such as cross-domain material retrieval with Dr. [Jingwei Huang](https://cs.stanford.edu/~jingweih/) ([Tencent Hunyuan 3D](https://hunyuan-3d.com/)), low-light image enhancement, and generative modeling. More recently, I have expanded my interests to AI for Science, especially drug discovery, where I focus on protein–ligand binding prediction at the [THU-ATOM Lab](https://atomlab.yanyanlan.com/), [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), advised by Prof. [Yanyan Lan](https://yanyanlan.com/).
 
 
 
