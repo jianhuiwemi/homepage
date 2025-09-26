@@ -27,8 +27,8 @@ Hi! I am an undergraduate at the University of Electronic Science and Technology
 
 
 # 🔥 News
-- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to Neurips 2025 AI for Science workshop! 🎉
-- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2506.05768">AANet</a> accepted to Neurips 2025! 🎉
+- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to NeurIPS 2025 AI for Science workshop! 🎉
+- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2506.05768">AANet</a> accepted to NeurIPS 2025! 🎉
 - *2025.07*: &nbsp; <a href="https://arxiv.org/pdf/2411.01819v4">Free-Mask</a> accepted to ACM MM 2025! 🎉
 - *2025.07*: &nbsp; <a href="https://arxiv.org/pdf/2504.14868">Twin-Co</a> accepted to ACM MM 2025! 🎉
 - *2025.06*: &nbsp; <a href="https://openreview.net/pdf?id=10Jkkqyzlw">AlphaRank</a> accepted to ICML 2025 Generative AI and Biology (GenBio) Workshop! 🎉
@@ -44,20 +44,20 @@ Hi! I am an undergraduate at the University of Electronic Science and Technology
 
 **Jianhui Wang**, Wenyu Zhu, Bowen Gao, Xin Hong, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan
 
-_Neurips 2025 AI for Science workshop_
+_NeurIPS 2025 AI for Science workshop_
 
 <small>We introduce HypSeek, a hyperbolic representation learning framework that embeds ligands, protein pockets, and sequences into Lorentz-model space. By leveraging hyperbolic geometry, it better captures subtle affinity differences (e.g., activity cliffs) and unifies virtual screening with affinity ranking in a single model.</small>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2025</div><img src='images/aanet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/aanet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[AANet: Virtual Screening under Structural Uncertainty via Alignment and Aggregation](https://arxiv.org/pdf/2506.05768)**
 
 Wenyu Zhu, **Jianhui Wang**, Bowen Gao, Yinjun Jia, Haichuan Tan, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan
 
-_Neurips 2025_
+_NeurIPS 2025_
 
 <small>We propose AANet, an alignment-and-aggregation framework for virtual screening under structural uncertainty. It aligns ligands, holo pockets, and geometry-detected cavities through contrastive learning, and dynamically aggregates candidate binding sites via cross-attention. This enables robust screening on apo and AlphaFold-predicted structures, where conventional methods fail.</small>
 </div>
@@ -87,7 +87,7 @@ _CVPR 2025_
 _ACM MM 2025_
 
 
-<small>Proposed Twin-Co, a dual-path dialogue framework combining explicit user feedback with implicit optimization, enabling multi-turn text-to-image generation that better aligns with evolving user intent.</small>
+<small>We propose Twin-Co, a dual-path dialogue framework combining explicit user feedback with implicit optimization, enabling multi-turn text-to-image generation that better aligns with evolving user intent.</small>
 </div>
 </div>
 
@@ -101,7 +101,7 @@ Bo Gao, **Jianhui Wang**, Xinyuan Song, Yangfan He, Fangxu Xing, Tianyu Shi.
 _ACM MM 2025_
 
 
-<small>Introduced Free-Mask, a diffusion-based framework that integrates segmentation and image editing. It generates realistic single- and multi-instance images with accurate masks, while an active learning pipeline improves both dataset quality and model generalization for open-world semantic segmentation.</small>
+<small>We introduce Free-Mask, a diffusion-based framework that integrates segmentation and image editing. It generates realistic single- and multi-instance images with accurate masks, while an active learning pipeline improves both dataset quality and model generalization for open-world semantic segmentation.</small>
 </div>
 </div>
 
@@ -115,7 +115,7 @@ _ACM MM 2025_
 _Neurocomputing_
 
 
-<small>We Propose MDANet, a domain adaptation framework that integrates lighting invariance, region-focused enhancement, and contextual adaptation. It achieves robust generalization for low-light image enhancement across diverse real-world scenarios.</small>
+<small>We propose MDANet, a domain adaptation framework that integrates lighting invariance, region-focused enhancement, and contextual adaptation. It achieves robust generalization for low-light image enhancement across diverse real-world scenarios.</small>
 </div>
 </div>
 
@@ -131,7 +131,7 @@ Ruyao Wang, **Jianhui Wang**, Tuo Liang, Huixiong Zhang.
 _Space Weather_
 
 
-<small>Proposed a hybrid deep learning model for short-term forecasting of geomagnetic activity (Dst index), integrating solar wind parameters and uncertainty estimation. The framework provides reliable and accurate probabilistic space weather predictions.</small>
+<small>We propose a hybrid deep learning model for short-term forecasting of geomagnetic activity (Dst index), integrating solar wind parameters and uncertainty estimation. The framework provides reliable and accurate probabilistic space weather predictions.</small>
 </div>
 </div>
 
@@ -145,7 +145,7 @@ _Space Weather_
 _arXiv_
 
 
-<small>Introduced Vid-TTA, a lightweight test-time adaptation framework for video editing. By combining motion-aware masked reconstruction with prompt augmentation, it enhances temporal consistency and mitigates prompt overfitting, offering plug-and-play improvements for existing editing models.</small>
+<small>We introduce Vid-TTA, a lightweight test-time adaptation framework for video editing. By combining motion-aware masked reconstruction with prompt augmentation, it enhances temporal consistency and mitigates prompt overfitting, offering plug-and-play improvements for existing editing models.</small>
 </div>
 </div>
 
