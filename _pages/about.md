@@ -27,12 +27,12 @@ Hi! I am an undergraduate at the University of Electronic Science and Technology
 
 
 # 🔥 News
-- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> is accepted to Neurips 2025 AI for Science workshop! 🎉
-- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2506.05768">AANet</a> is accepted to Neurips 2025! 🎉
-- *2025.07*: &nbsp; <a href="https://arxiv.org/pdf/2411.01819v4">Free-Mask</a> is accepted to ACM MM 2025! 🎉
-- *2025.07*: &nbsp; <a href="https://arxiv.org/pdf/2504.14868">Twin-Co</a> is accepted to ACM MM 2025! 🎉
-- *2025.06*: &nbsp; <a href="https://openreview.net/pdf?id=10Jkkqyzlw">AlphaRank</a> is accepted to ICML 2025 Generative AI and Biology (GenBio) Workshop! 🎉
-- *2025.06*: &nbsp; <a href="https://openreview.net/pdf?id=Pt18WpGHHn">FragCLIP</a> is accepted to ICML 2025 Generative AI and Biology (GenBio) Workshop! 🎉
+- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to Neurips 2025 AI for Science workshop! 🎉
+- *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2506.05768">AANet</a> accepted to Neurips 2025! 🎉
+- *2025.07*: &nbsp; <a href="https://arxiv.org/pdf/2411.01819v4">Free-Mask</a> accepted to ACM MM 2025! 🎉
+- *2025.07*: &nbsp; <a href="https://arxiv.org/pdf/2504.14868">Twin-Co</a> accepted to ACM MM 2025! 🎉
+- *2025.06*: &nbsp; <a href="https://openreview.net/pdf?id=10Jkkqyzlw">AlphaRank</a> accepted to ICML 2025 Generative AI and Biology (GenBio) Workshop! 🎉
+- *2025.06*: &nbsp; <a href="https://openreview.net/pdf?id=Pt18WpGHHn">FragCLIP</a> accepted to ICML 2025 Generative AI and Biology (GenBio) Workshop! 🎉
 - *2025.03*: &nbsp; <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MaRI_Material_Retrieval_Integration_across_Domains_CVPR_2025_paper.pdf">MaRI</a> is accepted to CVPR 2025! 🎉
 
 # 📝 Selected Publications 
@@ -135,14 +135,14 @@ _Space Weather_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vid-tta.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/vid-tta.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Low-Cost Test-Time Adaptation for Robust Video Editing](https://arxiv.org/pdf/2507.21858)**
 
 **Jianhui Wang**, Yinda Chen, Yangfan He, Xinyuan Song, Yi Xin, Dapeng Zhang, Zhongwei Wan, Bin Li, Rongchao Zhang.
 
-_Arxiv_
+_arXiv_
 
 
 <small>Introduced Vid-TTA, a lightweight test-time adaptation framework for video editing. By combining motion-aware masked reconstruction with prompt augmentation, it enhances temporal consistency and mitigates prompt overfitting, offering plug-and-play improvements for existing editing models.</small>
