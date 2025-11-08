@@ -36,14 +36,14 @@ Hi! I am an undergraduate at the [University of Electronic Science and Technolog
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025-AI4Science</div><img src='images/hypseek.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 & NeurIPS 2025-AI4Science</div><img src='images/hypseek.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Learning Protein-Ligand Binding in Hyperbolic Space](https://arxiv.org/pdf/2508.15480)**
 
 **Jianhui Wang**, Wenyu Zhu, Bowen Gao, Xin Hong, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan
 
-_NeurIPS 2025 AI for Science workshop_
+_AAAI 2026 & NeurIPS 2025 AI for Science workshop_
 
 <small>We introduce HypSeek, a hyperbolic representation learning framework that embeds ligands, protein pockets, and sequences into Lorentz-model space. By leveraging hyperbolic geometry, it better captures subtle affinity differences (e.g., activity cliffs) and unifies virtual screening with affinity ranking in a single model.</small>
 </div>
