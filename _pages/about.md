@@ -28,6 +28,7 @@ Hi! I am an undergraduate at the [University of Electronic Science and Technolog
 
 # 🔥 News
 - *2025.11*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to AAAI 2026! 🎉
+- *2025.10*: &nbsp; I received a NeurIPS 2025 Scholar Award and am excited to attend the conference in San Diego to share our work!
 - *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to NeurIPS 2025 AI for Science workshop! 🎉
 - *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2506.05768">AANet</a> accepted to NeurIPS 2025! 🎉
 - *2025.07*: &nbsp; <a href="https://arxiv.org/pdf/2504.14868">Twin-Co</a> and <a href="https://arxiv.org/pdf/2411.01819v4">Free-Mask</a> accepted to ACM MM 2025! 🎉
