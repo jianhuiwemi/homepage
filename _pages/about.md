@@ -25,7 +25,7 @@ Hi! I am an undergraduate at the [University of Electronic Science and Technolog
 
 
 
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.11*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to AAAI 2026! 🎉
 - *2025.10*: &nbsp; I received a NeurIPS 2025 Scholar Award and am excited to attend the conference in San Diego to share our work!
@@ -35,6 +35,7 @@ Hi! I am an undergraduate at the [University of Electronic Science and Technolog
 - *2025.06*: &nbsp; <a href="https://openreview.net/pdf?id=10Jkkqyzlw">AlphaRank</a> and <a href="https://openreview.net/pdf?id=Pt18WpGHHn">FragCLIP</a> accepted to ICML 2025 Generative AI and Biology (GenBio) Workshop! 🎉
 - *2025.03*: &nbsp; <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MaRI_Material_Retrieval_Integration_across_Domains_CVPR_2025_paper.pdf">MaRI</a> is accepted to CVPR 2025! 🎉
 
+<span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 and NeurIPS 2025-AI4Science</div><img src='images/hypseek.png' alt="sym" width="100%"></div></div>
@@ -151,6 +152,7 @@ _arXiv_
 
 [//]: # (# 📚 Selected Projects)
 
+<span class='anchor' id='services'></span>
 # 🌍 Services
 
 Reviewer: [ICLR 2026](https://iclr.cc/Conferences/2026), [CVPR 2026, 2025](https://cvpr.thecvf.com/), [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
