@@ -27,6 +27,7 @@ Hi! I am an undergraduate at the [University of Electronic Science and Technolog
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.1*: &nbsp; <a href="https://openreview.net/pdf?id=MMLAvR1juf">Drugging the Undruggable</a> accepted to ICLR 2026! 🎉
 - *2025.11*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to AAAI 2026! 🎉
 - *2025.10*: &nbsp; I received a NeurIPS 2025 Scholar Award and am excited to attend the conference in San Diego to share our work!
 - *2025.09*: &nbsp; <a href="https://arxiv.org/pdf/2508.15480">HypSeek</a> accepted to NeurIPS 2025 AI for Science workshop! 🎉
